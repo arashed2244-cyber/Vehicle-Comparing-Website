@@ -1,0 +1,6 @@
+{
+  "name": "AutoValue - Used Car Deal Evaluator",
+  "description": "Evaluate and rank used car listings by price-per-mile, remaining lifespan, condition, and value score to identify the best overall deal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
